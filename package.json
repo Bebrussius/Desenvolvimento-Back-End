@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Bebrussius/Desenvolvimento-Back-End#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
   }
 }
