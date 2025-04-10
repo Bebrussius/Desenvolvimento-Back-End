@@ -1,0 +1,23 @@
+{
+  "name": "prog",
+  "version": "1.0.0",
+  "description": "TESTE (ATUALIZADO)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bebrussius/Desenvolvimento-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bebrussius/Desenvolvimento-Back-End/issues"
+  },
+  "homepage": "https://github.com/Bebrussius/Desenvolvimento-Back-End#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
